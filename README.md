@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Prashant 👋
+
+🎓 First Year B.Tech Student  
+🏫 VIT Bhopal University  
+
+💡 I am interested in learning programming, AI & building real-world projects.
+
+🚀 Goals:
+- Improve coding skills
+- Build useful projects
+- Explore AI & ML
 
 <!--
 **prashant121124/prashant121124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
